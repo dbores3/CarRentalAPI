@@ -1,0 +1,14 @@
+# Disables index view
+Options -Indexes
+
+# Allows ONLY the access to the api folder
+RewriteEngine On
+RewriteRule !^api/ - [F]
+
+# Set ENV variables here.
+SetEnv HTTP_HOSTNAME "localhost"
+SetEnv HTTP_USERNAME "root"
+SetEnv HTTP_PASSWORD ""
+SetEnv HTTP_DBNAME "car_renting"
+
+

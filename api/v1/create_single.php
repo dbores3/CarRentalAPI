@@ -1,6 +1,8 @@
 <?php
     
-    include_once './services/createCarService.php';
+    require '../../vendor/autoload.php';
+    use Api\Services\createCarService;
+
 
     /**
      * @desc Endpoint for creating one new car

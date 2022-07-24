@@ -1,14 +1,15 @@
 <?php
 
-    include_once '../../config/database.php';
-    include_once '../../models/car.php';
-    include_once '../../models/car_specification.php';
-    include_once '../../models/location.php';
-    include_once '../../models/car_brand.php';
-    include_once '../../models/car_model.php';
-    include_once '../../models/car_type.php';
-    include_once '../../models/fuel_type.php';
-    include_once '../../models/transmission.php';
+    namespace Api\Services;
+    use Config\Database;
+    use Models\Car;
+    use Models\Car_specification;
+    use Models\Location;
+    use Models\Car_brand;
+    use Models\Car_model;
+    use Models\Car_type;
+    use Models\Fuel_type;
+    use Models\Transmission;
     
     /**
      * @desc Create cars service

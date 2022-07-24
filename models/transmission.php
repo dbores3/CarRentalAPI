@@ -1,5 +1,8 @@
 <?php
 
+    namespace Models;
+    use PDO;
+
     /**
      * @desc transmission model
      * @author David Bores 

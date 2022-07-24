@@ -1,5 +1,8 @@
 <?php
 
+    namespace Models;
+    use PDO;
+
     /**
      * @desc location model
      * @author David Bores 

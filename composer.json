@@ -1,0 +1,20 @@
+{
+    "name": "dbores/oscar-api",
+    "description": "Car renting processing",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "api/v1",
+            "Config\\": "config",
+            "Models\\": "models"
+        }
+    },
+    "authors": [
+        {
+            "name": "dbores3",
+            "email": "davidborespaoli@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}

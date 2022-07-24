@@ -1,5 +1,8 @@
 <?php
     
+    namespace Models;
+    use PDO;
+
     /**
      * @desc fuel_type model
      * @author David Bores 

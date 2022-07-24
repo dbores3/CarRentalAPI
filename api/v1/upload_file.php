@@ -1,6 +1,7 @@
 <?php
     
-    include_once './services/files/FileFactory.php';
+    require '../../vendor/autoload.php';
+    use Api\Services\Files\FileFactory;
 
     /**
      * @desc Endpoint for processing files & creating the cars within

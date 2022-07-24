@@ -1,7 +1,9 @@
 <?php
-
-    include_once '../../config/database.php';
-    include_once '../../models/car.php';    
+    
+    require '../../vendor/autoload.php';
+    
+    use Config\Database;
+    use Models\Car;
 
     /**
      * @desc Endpoint for getting all the cars

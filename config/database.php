@@ -1,5 +1,8 @@
 <?php 
     
+    namespace Config;
+    use PDO;
+    
     /**
      *@desc Configuration for connecting to the database
      *@author David Bores

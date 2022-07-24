@@ -1,5 +1,8 @@
 <?php
 
+    namespace Models;
+    use PDO;
+    
     /**
      * @desc car_specification model
      * @author David Bores 

@@ -1,0 +1,12 @@
+[
+{"Car km":"160402","Car year":"2015","Location":"Ede West","Fuel type":"Diesel","Car Model":"Transit Connect","Number of doors":"3","Transmission":"Manual","Number of seats":"3","Car Brand":"Ford"},
+{"Car km":"1","Car year":"2014","Location":"Ede West","Fuel type":"Diesel","Car Model":"Trailer","Number of doors":"-1","Transmission":"Manual","Number of seats":"-1","Car Brand":"Witteveen"},
+{"Car km":"116577","Car year":"2011","Location":"Ede West","Fuel type":"Petrol","Car Model":"Fabia","Number of doors":"5","Transmission":"Manual","Number of seats":"5","Car Brand":"Skoda"},
+{"Car km":"137431","Car year":"2007","Location":"Ede West","Fuel type":"Petrol","Car Model":"Golf Plus","Number of doors":"-5","Transmission":"Manual","Number of seats":"5","Car Brand":"VW"},
+{"Car km":"81595","Car year":"2013","Location":"Scherpenzeel","Fuel type":"Petrol","Car Model":"Up!","Number of doors":"4","Transmission":"Manual","Number of seats":"4","Car Brand":"VW"},
+{"Car km":"120609","Car year":"2013","Location":"Scherpenzeel","Fuel type":"Petrol","Car Model":"Up!","Number of doors":"4","Transmission":"Manual","Number of seats":"4","Car Brand":"VW"},
+{"Car km":"132395","Car year":"2013","Location":"Scherpenzeel","Fuel type":"Petrol","Car Model":"Up!","Number of doors":"4","Transmission":"Manual","Number of seats":"4","Car Brand":"VW"},
+{"Car km":"191553","Car year":"2009","Location":"Scherpenzeel","Fuel type":"Diesel","Car Model":"Transporter","Number of doors":"4","Transmission":"Manual","Number of seats":"2","Car Brand":"VW"},
+{"Car km":"199808","Car year":"2013","Location":"Scherpenzeel","Fuel type":"Diesel","Car Model":"Citan","Number of doors":"4","Transmission":"Manual","Number of seats":"2","Car Brand":"Mercedes Benz"},
+{"Car km":"52175","Car year":"2015","Location":"Holten","Fuel type":"Petrol","Car Model":"108","Number of doors":"5","Transmission":"Manual","Number of seats":"4","Car Brand":"Peugeot"}
+]

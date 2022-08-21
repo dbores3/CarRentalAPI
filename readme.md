@@ -1,4 +1,4 @@
-# Oscar Car Rental App
+# Car Rental App
 ## _Cars processing_
 
 
@@ -36,9 +36,9 @@ Install & run it locally.
 ```sh
 Install a Xampp environment and put clone the project into htdocs or configure your own environment and create a virtualhost for the project. *As the env variables are set in Apache, if you want to use another we server, like  Nginx, you should create a .env file with the variables from .htaccess and install Dotenv to access securely to this variables.
 Mount the database.
-git clone https://github.com/dbores3/OSCARAPI
+git clone https://github.com/dbores3/CarRentalAPI
 Configure the env variables in the .htaccess
-cd OSCARAPI
+cd CarRentalAPI
 composer install
 ```
 

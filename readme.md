@@ -6,10 +6,10 @@ The APP creates & displays a catalog of cars for renting. In order to upload/cre
 
 ## Usage
 
-- To create cars from a CSV or JSON file, POST Request to <host>/<app>/api/v1/upload_file sending a form-data with key => file, value => file to upload.
-- To create a single car, POST Request to <host>/<app>/api/v1/create_single sending for example the following format 
+- To create cars from a CSV or JSON file, POST Request to host/app/api/v1/upload_file sending a form-data with key => file, value => file to upload.
+- To create a single car, POST Request to host/app/api/v1/create_single sending for example the following format 
 __{"License plate":"PJ9273542","Car km":30000,"Location":"Rønde","Car year":2022,"Number of doors":5,"Number of seats":5,"Inside height":2.5,"Inside length":3,"Inside width":2.3,"Car Brand":"Fiat","Car Model":"Panda","Car Type":"Small car","Fuel Type":"Petrol","Transmission":"Manual" }__
-- To read all the cars, make a GET request to <host>/<app>/api/v1/upload_file.
+- To read all the cars, make a GET request to host/app/api/v1/upload_file.
 
 ## Tech
 
